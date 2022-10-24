@@ -10524,7 +10524,7 @@
 	                { className: 'aList' },
 	                _react2.default.createElement(
 	                    'a',
-	                    { target: '_blank', className: 'aFooter', href: 'https://ilia10101000.github.io/mainPage.github.io/' },
+	                    { target: '_blank', className: 'aFooter', href: 'https://ilia10101000.github.io/main.github.io/' },
 	                    'Main page'
 	                ),
 	                _react2.default.createElement(
