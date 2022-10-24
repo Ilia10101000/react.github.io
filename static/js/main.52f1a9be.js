@@ -10496,7 +10496,7 @@
 	            null,
 	            _react2.default.createElement(
 	                'a',
-	                { target: '_blank', alt: 'github icon', href: 'https://github.com/Ilia10101000/Ilia10101000.github.io', className: 'aFooterImg' },
+	                { target: '_blank', alt: 'github icon', href: 'https://github.com/Ilia10101000/react', className: 'aFooterImg' },
 	                _react2.default.createElement('img', { alt: 'pict', className: 'aImg', src: './src/icons8-github-50.png' })
 	            ),
 	            _react2.default.createElement(
